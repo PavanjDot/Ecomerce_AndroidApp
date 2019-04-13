@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EcomerceApp</string>
+    <string name="title_activity_show_json_object">showJsonObjectActivity</string>
+</resources>
